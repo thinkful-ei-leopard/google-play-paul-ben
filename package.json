@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-leopard/google-play-paul-ben/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-leopard/google-play-paul-ben#readme"
+  "homepage": "https://github.com/thinkful-ei-leopard/google-play-paul-ben#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
 }
