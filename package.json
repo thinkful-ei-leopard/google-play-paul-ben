@@ -1,0 +1,21 @@
+{
+  "name": "google-play-paul-ben",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-leopard/google-play-paul-ben.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-leopard/google-play-paul-ben/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-leopard/google-play-paul-ben#readme"
+}
